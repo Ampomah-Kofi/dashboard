@@ -1,0 +1,319 @@
+
+
+.one{
+  z-index: 1;
+  height: 100%;
+  overflow-x: hidden;
+  width: 200px;
+  position:fixed; 
+  top: 0;
+  background-color: black;
+
+}
+
+
+ #bar img,td img{
+
+border-radius: 50%;
+margin-left: 40px;
+margin-top: 15px;
+
+}
+#bar,.menu,.menu2,.menu3{
+	background-color:black;
+color: orange;
+
+
+}
+
+
+.tog{
+	margin-top: 20px;
+}
+#ser{
+	margin-top: 20px;
+}	
+
+.left{
+	float: left;
+}
+
+.user{
+	margin-top: 25px;
+}
+
+#kol{
+	margin-top: 25px;
+
+}
+.th{
+	margin-top: 25px;
+
+
+}
+ul li{
+	list-style: none;
+	display:block;
+}
+.combine{
+  margin-top:1000px;
+}
+.mid{
+	margin-top:-920px;
+	margin-left: 120px;
+}
+#round{
+	margin-top: -800px;
+  margin-left: 600px;
+}
+.bup{
+  margin-top: -800px;
+  box-shadow: 0 .300rem .30rem rgba(0,0,0,.075) !important;
+}
+
+
+.btn-circle.btn-xa {
+  width: 45px;
+  height: 35px;
+  padding: 1px 1px;
+  font-size: 20px;
+  line-height: 0.0;
+  border-radius: 35px;
+  float: right;
+}
+.btn-circle.btn-xl {
+  width:80px;
+  height: 35px;
+  padding: 2px 2px;
+  font-size: 20px;
+  line-height: 0.0;
+  border-radius: 35px;
+  float: right;
+}
+
+
+.lo{
+	margin-top: -100px;
+	
+}
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: -800px;
+  
+
+  
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  border-bottom: 5px solid blue;
+}
+
+.topnav a.active {
+  border-bottom: 5px solid blue;
+}
+
+.jol{
+  height:100px; 
+  width:250px;
+  margin-top: -700px;
+}
+.jol1{
+  height:100px; 
+  width:220px;
+  margin-top:-220px;
+  margin-right: px;
+  margin-left:300px; 
+}
+.jol3{
+  height: 0px;
+  width: 400px;
+  margin-top: -710px;
+  margin-left: 600px;
+}
+
+
+
+
+
+
+.m{
+	margin-left: 300px;
+}
+.n{
+	margin-top:-109px;
+	margin-left: 150px; 
+}
+.p{
+	margin-top: -109px;
+}
+.btn-sq-xs {
+  width: 25px !important;
+  height: 25px !important;
+  padding:2px;
+}
+
+
+.bn img{
+	margin-left: 620px;
+	margin-top: -740px;
+	height: 150px;
+	width: 360px;
+}
+
+.btn-circle.btn-xm {
+  width:300px;
+  height: 40px;
+  padding: 2px 6px;
+  font-size: 22px;
+  line-height: 0.0;
+  border-radius: 35px;
+  float: right;
+  margin-top: 60px;
+  margin-right: 0px;
+  margin-bottom: 70px;
+}
+.bt{
+	margin-top:-540px; 
+	margin-left:-130px;
+	margin-right:px;
+}
+.btn-circle.btn-cc {
+  width:300px;
+  height: 40px;
+  padding: 2px 2px;
+  font-size: 22px;
+  line-height: 0.0;
+  border-radius: 35px;
+  float: right;
+  margin-top:59px; 
+}
+.bb{
+	margin-top:-540px; 
+	margin-left:420px;
+}
+.hr{
+	margin-top: -440px;
+	
+}
+hr{
+	border: 1px solid ;
+
+}
+.btn-circle.btn-xx {
+  width:60px;
+  height: 35px;
+  padding: 2px 2px;
+  font-size: 20px;
+  line-height: 0.0;
+  border-radius: 0px;
+  float: none;
+  text-align: 
+}
+.tab{
+	margin-top: -350px;
+	margin-left: 30px;
+	font-family: bolder;
+	color: black;
+	padding: 0px 2px 0px 2px
+  box-shadow: 0 .200rem .25rem rgba(0,0,0,.090) !important;
+
+}	
+th{
+	text-align: left;
+	background: slategrey;
+}
+
+td{
+	background-color:white;
+	font-style: italic;
+	font-size: 16px;
+}
+ td img{
+border-radius: 50%;
+
+}
+.social1 {
+  float: right;
+  width: 120px; 
+  margin:-25px ;
+  padding: px;
+  margin-top:-50px;
+  
+}
+.bn{
+  width: 300px;
+  height: 40px;
+}
+.fb, .bn{
+   margin-top: 8px;
+}
+
+
+.fb {
+  background-color: blue;
+  color: white;
+  margin-right: 30px;
+}
+
+.twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+
+.linkedin {
+  background-color: blue;
+  color: white;
+}
+@media screen and (max-width: 650px) {
+
+.social {
+    width: 100%;
+    
+}
+
+.gg button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: blue;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+ button:hover {
+  background: pink;
+}
+
+@media screen and (max-width: 600px) {
+.search-container {
+    float: none;
+}
+
+.gg{
+  margin-top: px;
+
+}
+  
+.ee{
+  margin-top: -400px;
+  margin-left: -12px;
+}
+.kk{
+  margin-left: 50px;
+}
